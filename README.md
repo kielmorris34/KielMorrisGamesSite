@@ -1,1 +1,2 @@
-This repo is to host a site for supporting my games on the app stores.
+# Kiel Morris Games
+### Contact kielmorrisgames@gmail.com for questions or concerns.
