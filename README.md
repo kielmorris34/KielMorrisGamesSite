@@ -1,0 +1,1 @@
+This repo is to host a site for supporting my games on the app stores.
